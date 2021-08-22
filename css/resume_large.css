@@ -1,0 +1,25 @@
+html, body{height: 100%; width: 100%; margin: 0px; padding: 0px;}
+.header{background-color: #1b1b2f; height: 50%; display: flex;}
+#about{width: 70%; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+#name{font-size: 400%; font-weight: 800; font-stretch: expanded; color: white;}
+#role{font-size: 150%; font-stretch: expanded; color: #669a66;}
+#pic{width: 30%;}
+#Profile_Pic{height: 100%; width: 100%;}
+.content{color: #1b1b2f; padding: 1%;}
+h1{font-size: 300%; font-weight: 800; margin-bottom: 1%;}
+h4{color: #669a66; margin-top: 1%;}
+p{width: 50%; font-size: 125%; font-weight: bold;}
+#serv{display: flex;}
+#serv>div{width: 50%;}
+.p_serv{width: 80%;}
+#skill{display: flex; flex-wrap: wrap;}
+.skill_item{width: 50%;}
+.skill_item>div{width: 90%; background-color: #aabba8d9; height: 10px;
+padding: 0px; border-radius: 10px;}
+.skill_item p{height: 100%; background-color: #6aad6a; border-color: white;
+border-radius: 10px; border-top-right-radius: 0px; border-bottom-right-radius: 0px;}
+.footer{background-color: #1b1b2f; height: 50%; font-size: 200%; font-weight: 800; font-stretch: expanded;
+color: white; display: flex; flex-direction: column; justify-content: center;}
+#logos{display: flex; justify-content: flex-start;}
+#logos img{width: 50%; height: 50%;}
+.footer>a{width: 30%; height: 50%;}
