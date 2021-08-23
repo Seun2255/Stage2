@@ -20,7 +20,7 @@ padding: 0px; border-radius: 10px;}
 border-radius: 10px; border-top-right-radius: 0px; border-bottom-right-radius: 0px;}
 #logo{width: 30%;}
 .footer{background-color: #1b1b2f;font-size: 200%; font-weight: 800; font-stretch: expanded;
-color: white; display: flex; flex-direction: column; justify-content: center;}
+color: white; display: flex; flex-direction: column; justify-content: flex-end; height: 30%;}
 #logos{display: flex; justify-content: flex-start;}
 #logos img{width: 50%; height: 60%;}
 .footer>h1{font-size: 200%;}
